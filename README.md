@@ -1,0 +1,1 @@
+hrm-article-template
