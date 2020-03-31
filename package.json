@@ -1,0 +1,60 @@
+{
+  "name": "hr-magazine-nuxt",
+  "version": "1.0.0",
+  "description": "A magazine for the everyday inquisitive programmer",
+  "author": "Human Readable",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "engines": {
+    "node": "12.8.x",
+    "npm": "6.10.x"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-regular-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@nuxtjs/bootstrap-vue": "^2.0.4",
+    "@nuxtjs/markdownit": "1.2.7",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.8.0",
+    "cross-env": "^7.0.2",
+    "front-matter": "^3.1.0",
+    "highlight.js": "^9.18.1",
+    "jquery": "^3.4.1",
+    "markdown-it-attrs": "^2.4.1",
+    "markdown-it-front-matter": "^0.2.1",
+    "markdown-it-highlightjs": "^3.1.0",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "markdown-it-imsize": "^2.0.1",
+    "markdown-it-katex": "^2.0.3",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.12.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "popper.js": "^1.16.1",
+    "sass-loader": "^7.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "glob": "^7.1.6",
+    "nodemon": "^1.19.4",
+    "precss": "^4.0.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0"
+  },
+  "browserslist": [
+    "Chrome >= 45",
+    "Firefox ESR",
+    "Edge >= 12",
+    "Explorer >= 10",
+    "iOS >= 9",
+    "Safari >= 9",
+    "Android >= 4.4",
+    "Opera >= 30"
+  ]
+}

@@ -1,0 +1,10 @@
+// Customizations
+// $body-bg: #000;
+// $body-color: #111;
+$link-color: gray;
+
+.card-img-top {
+  border-radius: 0 !important;
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
