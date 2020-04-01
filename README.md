@@ -22,6 +22,10 @@ You will need:
 git clone git@github.com:HumanReadableIO/hrm-article-template.git
 ```
 
+*WARNING:* **DO NOT FORK THIS REPO**
+
+Forking will prevent you from making the forked repo privtae. Instead please follow these instructions on how to properly make a private copy of this repo (mirror): <https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository#mirroring-a-repository>
+
 2. Install dependencies
 
 ```
