@@ -4,9 +4,9 @@ This repo contains a skeleton structure of the [Human Readable Magazine](https:/
 
 A preview can be found here: <https://hrm-article.netlify.com>
 
-Authors should clone this repo locally (**DO NOT FORK IT**) and edit the contents in `content/articles/article` and `content/authors/author`. Further details about the process bellow.
+Authors should clone this repo locally (**DO NOT FORK IT**) and edit the contents in `content/articles/article` and `content/authors/author`. Further details about the process below.
 
-Optionally authors can build and run the site locally to preview their article. Further instructions about this bellow.
+Optionally authors can build and run the site locally to preview their article. Further instructions about this below.
 
 We use [markdown-it](https://github.com/markdown-it/markdown-it) with a bunch of plugins (included in this preview site) to render our Markdown. For anything specific to the magazine's format and style, read the [Format Guidelines](https://www.notion.so/humanreadableio/Format-ed4da744e8e54adea8f225126ce64857)
 
