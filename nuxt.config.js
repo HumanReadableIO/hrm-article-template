@@ -20,7 +20,7 @@ export default {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/icon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '~/assets/icons/favicon.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Libre+Baskerville' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lora' },
